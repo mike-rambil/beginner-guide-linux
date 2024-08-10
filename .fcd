@@ -1,0 +1,7 @@
+# Define a function to change directory using fzf
+fcd() {
+  # Use find to list directories and pipe it to fzf for selection
+  local target
+  target=$(find . -type d -print | fzf --height 40% --reverse --preview 'ls -l {}') || return
+  cd "$target"
+}
