@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file that explains how to set up and use the `fcd` function to quickly find and change directories using `fzf` in Bash.
-
----
 
 # Quick Directory Navigation with `fzf` and `fcd`
 
