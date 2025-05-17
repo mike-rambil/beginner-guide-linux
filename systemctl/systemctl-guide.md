@@ -1,4 +1,4 @@
-> Resource Source: https: //last9.io/blog/systemctl-guide/
+> Source: https: //last9.io/blog/systemctl-guide/
 
 systemctl Guide: Managing Services in Linux
 Linux system administrators frequently rely on systemctl, a command-line tool used to manage systemd services, units, and the system itself. As systemd has become the standard init system for most modern Linux distributions, understanding systemctl is essential for controlling services, checking system status, and performing system-level tasks. This guide provides a comprehensive overview of systemctl, including its commands, use cases, and practical examples to help you effectively manage Linux systems.
